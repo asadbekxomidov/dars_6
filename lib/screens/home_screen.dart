@@ -20,7 +20,7 @@ class _HomeScreenState extends State<HomeScreen> {
       backgroundColor: Colors.teal.shade300,
       appBar: AppBar(
         backgroundColor: Colors.teal.shade300,
-        title: Text('Calculator'),
+        title: Text('Home Screen'),
         centerTitle: true,
       ),
       body: Padding(
